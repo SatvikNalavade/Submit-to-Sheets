@@ -1,0 +1,28 @@
+body {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:cornsilk;
+}
+
+.container{
+    margin-top: 5%;
+    padding: 10px;
+    background-color: gray;
+    border-radius: 5px;
+}
+
+.submit{
+    margin-left: 33%;
+    margin-top: 20px;
+}
+
+.container input{
+    margin-top: 10px;
+    border-radius: 3px;
+    padding: 5px;
+    border: none;
+    outline: none;
+}
